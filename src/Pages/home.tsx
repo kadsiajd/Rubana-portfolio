@@ -8,7 +8,7 @@ const home = () => {
 			<div className="relative mx-auto flex min-h-screen max-w-7xl items-center px-6 lg:px-12">
 				<div className="max-w-3xl">
 					<div className="mb-4 inline-flex items-center rounded-full border border-slate-700 bg-slate-900/50 px-4 py-2 text-sm text-slate-300 backdrop-blur">
-						🚀 Full Stack Developer
+						Full Stack Developer
 					</div>
 
 					<h1 className="mb-4 text-5xl font-bold leading-tight md:text-7xl">
